@@ -1,0 +1,13 @@
+{
+  "name":"3minsvideo",
+  "description": "3minsvideo built with generator-react-firebase",
+  "repository": "https://github.com/jellydn/3minsvideo",
+  "keywords": [
+    "generator-react-firebase",
+    "react",
+    "redux",
+    "firebase",
+    "redux-firebase",
+    "react-redux-firebase",
+  ]
+}
